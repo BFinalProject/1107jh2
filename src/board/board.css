@@ -1,0 +1,107 @@
+.panel-table .panel-body{
+    padding:0;
+  }
+  
+  .panel-table .panel-body .table-bordered{
+    border-style: none;
+    margin:0;
+  }
+  
+  .panel-table .panel-body .table-bordered > thead > tr > th:first-of-type {
+      text-align:center;
+      width: 100px;
+  }
+  
+  .panel-table .panel-body .table-bordered > thead > tr > th:last-of-type,
+  .panel-table .panel-body .table-bordered > tbody > tr > td:last-of-type {
+    border-right: 0px;
+  }
+  
+  .panel-table .panel-body .table-bordered > thead > tr > th:first-of-type,
+  .panel-table .panel-body .table-bordered > tbody > tr > td:first-of-type {
+    border-left: 0px;
+  }
+  
+  .panel-table .panel-body .table-bordered > tbody > tr:first-of-type > td{
+    border-bottom: 0px;
+  }
+  
+  .panel-table .panel-body .table-bordered > thead > tr:first-of-type > th{
+    border-top: 0px;
+  }
+  
+  .panel-table .panel-footer .pagination{
+    margin:0; 
+  }
+  
+  /*
+  used to vertically center elements, may need modification if you're not using default sizes.
+  */
+  .panel-table .panel-footer .col{
+   line-height: 34px;
+   height: 34px;
+  }
+  
+  .panel-table .panel-heading .col h3{
+   line-height: 30px;
+   height: 30px;
+  }
+  
+  .panel-table .panel-body .table-bordered > tbody > tr > td{
+    line-height: 34px;
+  }
+  
+  /* 검색창
+
+
+    body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: #e74c3c !important;
+    }
+
+    .searchbar{
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 60px;
+    background-color: #353b48;
+    border-radius: 30px;
+    padding: 10px;
+    }
+
+    .search_input{
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color:transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+    }
+
+    .searchbar:hover > .search_input{
+    padding: 0 10px;
+    width: 450px;
+    caret-color:red;
+    transition: width 0.4s linear;
+    }
+
+    .searchbar:hover > .search_icon{
+    background: white;
+    color: #e74c3c;
+    }
+
+    .search_icon{
+    height: 20px;
+    width: 20px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color:white;
+    text-decoration:none;
+    } */

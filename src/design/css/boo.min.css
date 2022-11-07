@@ -1,0 +1,219 @@
+/*!
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.container2 {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+  .container2 {
+    width: 1170px;
+  }
+
+.row2 {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-xs-9 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+  .col-lg-4,
+  .col-lg-8,
+  .col-lg-9 {
+    float: left;
+  }
+  .col-lg-8 {
+    width: 66.66666667%;
+  }
+  .col-lg-4 {
+    width: 33.33333333%;
+  }
+
+.nav > li.disabled > a {
+  color: #777;
+}
+.nav > li.disabled > a:focus,
+.nav > li.disabled > a:hover {
+  color: #777;
+  text-decoration: none;
+  cursor: not-allowed;
+  background-color: transparent;
+}
+
+
+  .navbar-static-top2 {
+    border-radius: 0;
+  }
+
+.navbar-fixed-bottom2,
+.navbar-fixed-top2 {
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+  .navbar-fixed-bottom2,
+  .navbar-fixed-top2 {
+    border-radius: 0;
+    
+}
+.navbar-fixed-top2 {
+  background-color: rgba(245, 111, 111, 0.918);
+  top: 0;
+  border-width: 0 0 1px;
+}
+
+
+/* 
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.container2 {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+  .container2 {
+    width: 1170px;
+  }
+
+
+.row2 {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-xs-1,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+  .col-lg-4,
+  .col-lg-8,
+  .col-lg-9 {
+    float: left;
+  }
+  .col-lg-8 {
+    width: 66.66666667%;
+  }
+  .col-lg-4 {
+    width: 33.33333333%;
+  }
+
+.nav > li.disabled > a {
+  color: #777;
+}
+.nav > li.disabled > a:focus,
+.nav > li.disabled > a:hover {
+  color: #777;
+  text-decoration: none;
+  cursor: not-allowed;
+  background-color: transparent;
+}
+
+
+  .navbar-static-top2 {
+    border-radius: 0;
+  }
+
+.navbar-fixed-bottom2,
+.navbar-fixed-top2 {
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+  .navbar-fixed-bottom2,
+  .navbar-fixed-top2 {
+    border-radius: 0;
+    
+}
+.navbar-fixed-top2 {
+  background-color: rgba(245, 111, 111, 0.918);
+  top: 0;
+  border-width: 0 0 1px;
+} */
